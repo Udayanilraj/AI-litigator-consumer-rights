@@ -112,8 +112,10 @@ This is a blueprint for how **AI can fight fraud, systemize justice, and empower
 
 ---
 
+##Personal info ℹ️  
+
  [Email ✉️](mail to:udayanilraj999@gmail.com)
- | 🌍 Vizag, India
+ | 🌍 Mumbai & vizag, India
  | 🌐 [More Projects Coming Soon...]
 
 ---
