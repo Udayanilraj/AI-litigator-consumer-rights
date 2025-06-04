@@ -112,11 +112,11 @@ This is a blueprint for how **AI can fight fraud, systemize justice, and empower
 
 ---
 
-##Personal info ℹ️  
+## Personal infoℹ️ 
 
- [Email ✉️](mail to:udayanilraj999@gmail.com)
- | 🌍 Mumbai & vizag, India
- | 🌐 [More Projects Coming Soon...]
+[Email ✉️](mail to:udayanilraj999@gmail.com)
+| 🌍 Mumbai & vizag, India
+| 🌐 [More Projects Coming Soon...]
 
 ---
 
