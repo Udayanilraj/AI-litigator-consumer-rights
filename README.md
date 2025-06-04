@@ -75,7 +75,7 @@ This is a blueprint for how **AI can fight fraud, systemize justice, and empower
 
 ├── prompts/                      
 # Prompt engineering files used across legal stages
-│   ├── complaint_draft_prompt.md
+│   ├── - [📄 Complaint Draft Prompt](./complaint_draft_prompt.md) — GPT-4 powered legal complaint
 │   ├── scrutiny_reply_prompt.md
 │   ├── engineer_call_transcript_prompt.md
 │   ├── ccpa_escalation_prompt.md
