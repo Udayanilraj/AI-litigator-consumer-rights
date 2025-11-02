@@ -70,38 +70,54 @@ This is a blueprint for how **AI can fight fraud, systemize justice, and empower
 ## 📁 Repository Structure
 
 📂 ai-litigator-consumer-rights/
+
 ├── README.md                      
 # Full case overview, techniques, tools, learning
 
 ├── prompts/                      
 # Prompt engineering files used across legal stages
 │   ├── - [📄 Complaint Draft Prompt](./complaint_draft_prompt.md) — GPT-4 powered legal complaint
+
 │   ├── scrutiny_reply_prompt.md
+
 │   ├── engineer_call_transcript_prompt.md
+
 │   ├── ccpa_escalation_prompt.md
+
 │   ├── rti_filing_prompt.md
+
 │   └── tone_shift_examples.md
 
 ├── strategies/                    
 # Legal + procedural strategies and escalation plans
 │   ├── jurisdiction_handling.md
+
 │   ├── ccpa_escalation_plan.md
+
 │   └── rti_information_request.md
 
 ├── documents/                    
 # Key legal documents from actual filing
 │   ├── complaint.pdf
+
 │   ├── affidavit.pdf
+
 │   ├── legal_notice.pdf
+
 │   ├── grievance_update.pdf
+
 │   ├── email_denial_chain.pdf
+
 │   └── index_of_documents.pdf
 
 ├── evidence/                       
 # Screenshots, transcripts, media proof
 │   ├── cracked_screen_photos.jpg
+
 │   ├── call_recording_summary.txt
+
 │   ├── service_report_unsigned.jpg
+
 │   └── acer_case_closed_email.pdf
 
 ---
